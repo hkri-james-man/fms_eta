@@ -1,0 +1,34 @@
+[
+    {
+        "variant": "1 \u7531 \u6d77\u6f84\u6e56\u7554\u6703\u6240 (\u5c0d\u9762)",
+        "destination": "\u6771\u6d8c\u7ad9"
+    },
+    {
+        "stops": [
+            {
+                "stop": "\u6d77\u6f84\u6e56\u7554\u6703\u6240",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30618,
+                "longitude": 114.01525
+            },
+            {
+                "stop": "\u6109\u666f\u7063\u96a7\u9053\u6536\u8cbb\u5ee3\u5834",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30966,
+                "longitude": 113.99045
+            },
+            {
+                "stop": "\u6771\u6d8c\u7ad9",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.29024,
+                "longitude": 113.9401
+            }
+        ]
+    }
+]
