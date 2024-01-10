@@ -1,0 +1,206 @@
+[
+    {
+        "variant": "1 \u7d93 \u6109\u666f\u5317\u5546\u5834",
+        "destination": "\u6109\u666f\u5ee3\u5834"
+    },
+    {
+        "stops": [
+            {
+                "stop": "\u6a5f\u5834 (\u65c5\u904a\u8eca\u7e3d\u7ad9)",
+                "info": [
+                    "14:46 \u9810\u5b9a\u73ed\u6b21"
+                ],
+                "time": [
+                    "2024-01-10T14:46:00+08:00"
+                ],
+                "trip_code": [
+                    "2024-01-10_02R_DB Plaza_1 via DBN_Weekday_1446"
+                ],
+                "latitude": 22.313,
+                "longitude": 113.93676
+            },
+            {
+                "stop": "\u6109\u666f\u7063\u96a7\u9053\u6536\u8cbb\u5ee3\u5834",
+                "info": [
+                    "15:09 \u9810\u5b9a\u73ed\u6b21"
+                ],
+                "time": [
+                    "2024-01-10T15:09:48+08:00"
+                ],
+                "trip_code": [
+                    "2024-01-10_02R_DB Plaza_1 via DBN_Weekday_1446"
+                ],
+                "latitude": 22.30947,
+                "longitude": 113.99099
+            },
+            {
+                "stop": "\u9592\u6f84\u95a3",
+                "info": [
+                    "15:14 \u9810\u5b9a\u73ed\u6b21"
+                ],
+                "time": [
+                    "2024-01-10T15:14:44+08:00"
+                ],
+                "trip_code": [
+                    "2024-01-10_02R_DB Plaza_1 via DBN_Weekday_1446"
+                ],
+                "latitude": 22.30796,
+                "longitude": 114.01134
+            },
+            {
+                "stop": "\u6642\u5cf0",
+                "info": [
+                    "15:15 \u9810\u5b9a\u73ed\u6b21"
+                ],
+                "time": [
+                    "2024-01-10T15:15:10+08:00"
+                ],
+                "trip_code": [
+                    "2024-01-10_02R_DB Plaza_1 via DBN_Weekday_1446"
+                ],
+                "latitude": 22.30746,
+                "longitude": 114.01018
+            },
+            {
+                "stop": "\u5cfb\u5c71\u95a3",
+                "info": [
+                    "15:15 \u9810\u5b9a\u73ed\u6b21"
+                ],
+                "time": [
+                    "2024-01-10T15:15:53+08:00"
+                ],
+                "trip_code": [
+                    "2024-01-10_02R_DB Plaza_1 via DBN_Weekday_1446"
+                ],
+                "latitude": 22.30512,
+                "longitude": 114.00991
+            },
+            {
+                "stop": "\u7fe0\u5c71\u95a3",
+                "info": [
+                    "15:16 \u9810\u5b9a\u73ed\u6b21"
+                ],
+                "time": [
+                    "2024-01-10T15:16:19+08:00"
+                ],
+                "trip_code": [
+                    "2024-01-10_02R_DB Plaza_1 via DBN_Weekday_1446"
+                ],
+                "latitude": 22.30399,
+                "longitude": 114.01033
+            },
+            {
+                "stop": "\u6d77\u6f84\u6e56\u7554\u4e00\u6bb5 \u7b2c2\u5ea7",
+                "info": [
+                    "15:16 \u9810\u5b9a\u73ed\u6b21"
+                ],
+                "time": [
+                    "2024-01-10T15:16:58+08:00"
+                ],
+                "trip_code": [
+                    "2024-01-10_02R_DB Plaza_1 via DBN_Weekday_1446"
+                ],
+                "latitude": 22.30491,
+                "longitude": 114.01078
+            },
+            {
+                "stop": "\u6d77\u6f84\u6e56\u7554\u4e00\u6bb5 \u7b2c18\u5ea7",
+                "info": [
+                    "15:17 \u9810\u5b9a\u73ed\u6b21"
+                ],
+                "time": [
+                    "2024-01-10T15:17:21+08:00"
+                ],
+                "trip_code": [
+                    "2024-01-10_02R_DB Plaza_1 via DBN_Weekday_1446"
+                ],
+                "latitude": 22.30584,
+                "longitude": 114.0107
+            },
+            {
+                "stop": "\u6d77\u6f84\u6e56\u7554\u6703\u6240",
+                "info": [
+                    "15:18 \u9810\u5b9a\u73ed\u6b21"
+                ],
+                "time": [
+                    "2024-01-10T15:18:34+08:00"
+                ],
+                "trip_code": [
+                    "2024-01-10_02R_DB Plaza_1 via DBN_Weekday_1446"
+                ],
+                "latitude": 22.30618,
+                "longitude": 114.01525
+            },
+            {
+                "stop": "\u6109\u666f\u5317\u5546\u5834",
+                "info": [
+                    "15:19 \u9810\u5b9a\u73ed\u6b21"
+                ],
+                "time": [
+                    "2024-01-10T15:19:14+08:00"
+                ],
+                "trip_code": [
+                    "2024-01-10_02R_DB Plaza_1 via DBN_Weekday_1446"
+                ],
+                "latitude": 22.30787,
+                "longitude": 114.01597
+            },
+            {
+                "stop": "\u9999\u6e2f\u6109\u666f\u7063\u9152\u5e97",
+                "info": [
+                    "15:20 \u9810\u5b9a\u73ed\u6b21"
+                ],
+                "time": [
+                    "2024-01-10T15:20:00+08:00"
+                ],
+                "trip_code": [
+                    "2024-01-10_02R_DB Plaza_1 via DBN_Weekday_1446"
+                ],
+                "latitude": 22.30739,
+                "longitude": 114.01672
+            },
+            {
+                "stop": "\u660e\u7fe0\u53f0",
+                "info": [
+                    "14:22 \u9810\u5b9a\u73ed\u6b21"
+                ],
+                "time": [
+                    "2024-01-10T14:22:29+08:00"
+                ],
+                "trip_code": [
+                    "2024-01-10_02R_DB Plaza_1 via DBN_Weekday_1346"
+                ],
+                "latitude": 22.30226,
+                "longitude": 114.01098
+            },
+            {
+                "stop": "\u6d77\u71d5\u5f9115\u865f",
+                "info": [
+                    "14:23 \u9810\u5b9a\u73ed\u6b21"
+                ],
+                "time": [
+                    "2024-01-10T14:23:57+08:00"
+                ],
+                "trip_code": [
+                    "2024-01-10_02R_DB Plaza_1 via DBN_Weekday_1346"
+                ],
+                "latitude": 22.29692,
+                "longitude": 114.01362
+            },
+            {
+                "stop": "\u6109\u666f\u5ee3\u5834\u5df4\u58eb\u7e3d\u7ad9",
+                "info": [
+                    "14:25 \u9810\u5b9a\u73ed\u6b21"
+                ],
+                "time": [
+                    "2024-01-10T14:25:11+08:00"
+                ],
+                "trip_code": [
+                    "2024-01-10_02R_DB Plaza_1 via DBN_Weekday_1346"
+                ],
+                "latitude": 22.29548,
+                "longitude": 114.01731
+            }
+        ]
+    }
+]
