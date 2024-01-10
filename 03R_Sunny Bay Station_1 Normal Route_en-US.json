@@ -1,0 +1,74 @@
+[
+    {
+        "variant": "1 Normal Route",
+        "destination": "Sunny Bay Station"
+    },
+    {
+        "stops": [
+            {
+                "stop": "DB Plaza Bus Terminus",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.295671791792607,
+                "longitude": 114.01740254107763
+            },
+            {
+                "stop": "15 Seabird Lane",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.296978391638245,
+                "longitude": 114.0135306567777
+            },
+            {
+                "stop": "DB International School",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.300110210849443,
+                "longitude": 114.0119813466599
+            },
+            {
+                "stop": "Greenfield Court",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.303988903880313,
+                "longitude": 114.01024081430386
+            },
+            {
+                "stop": "Neo Horizon",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.306931973362772,
+                "longitude": 114.00980911696158
+            },
+            {
+                "stop": "Chianti Interchange",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30830918946594,
+                "longitude": 114.01259932218338
+            },
+            {
+                "stop": "DB Tunnel Toll Plaza",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.309547431627696,
+                "longitude": 113.99066143091873
+            },
+            {
+                "stop": "Sunny Bay Station",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.3326439696516,
+                "longitude": 114.02839601583246
+            }
+        ]
+    }
+]
