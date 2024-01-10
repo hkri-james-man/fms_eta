@@ -1,0 +1,82 @@
+[
+    {
+        "variant": "1 Normal Route",
+        "destination": "DB Plaza"
+    },
+    {
+        "stops": [
+            {
+                "stop": "Tung Chung Station",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.29031,
+                "longitude": 113.93991
+            },
+            {
+                "stop": "DB Tunnel Toll Plaza",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30947,
+                "longitude": 113.99099
+            },
+            {
+                "stop": "Graceful Mansion",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30796,
+                "longitude": 114.01134
+            },
+            {
+                "stop": "Neo Horizon",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30746,
+                "longitude": 114.01018
+            },
+            {
+                "stop": "Greenland Court",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30512,
+                "longitude": 114.00991
+            },
+            {
+                "stop": "Parkridge Village",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30226,
+                "longitude": 114.01098
+            },
+            {
+                "stop": "No. 41, Seabird Lane",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.299283958390337,
+                "longitude": 114.01257554270701
+            },
+            {
+                "stop": "15 Seabird Lane",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.29692,
+                "longitude": 114.01362
+            },
+            {
+                "stop": "DB Plaza Bus Terminus",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.29518,
+                "longitude": 114.01756
+            }
+        ]
+    }
+]
