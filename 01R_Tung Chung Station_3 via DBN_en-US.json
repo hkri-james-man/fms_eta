@@ -1,0 +1,106 @@
+[
+    {
+        "variant": "3 via DBN",
+        "destination": "Tung Chung Station"
+    },
+    {
+        "stops": [
+            {
+                "stop": "DB Plaza Bus Terminus",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.29518,
+                "longitude": 114.01756
+            },
+            {
+                "stop": "15 Seabird Lane",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.29713,
+                "longitude": 114.01344
+            },
+            {
+                "stop": "DB International School",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30016,
+                "longitude": 114.01197
+            },
+            {
+                "stop": "DB North Plaza",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.3077,
+                "longitude": 114.01629
+            },
+            {
+                "stop": "Block 58, Siena One",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30571,
+                "longitude": 114.01429
+            },
+            {
+                "stop": "Block 22, Siena One",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30621,
+                "longitude": 114.01115
+            },
+            {
+                "stop": "Block 2, Siena One",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30472,
+                "longitude": 114.01089
+            },
+            {
+                "stop": "Greenfield Court",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30398,
+                "longitude": 114.01023
+            },
+            {
+                "stop": "Neo Horizon",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30709,
+                "longitude": 114.00984
+            },
+            {
+                "stop": "Chianti Interchange",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30829,
+                "longitude": 114.01251
+            },
+            {
+                "stop": "DB Tunnel Toll Plaza",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30966,
+                "longitude": 113.99045
+            },
+            {
+                "stop": "Tung Chung Station",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.29024,
+                "longitude": 113.9401
+            }
+        ]
+    }
+]
