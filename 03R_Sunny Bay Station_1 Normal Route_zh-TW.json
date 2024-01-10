@@ -1,0 +1,74 @@
+[
+    {
+        "variant": "1 \u6b63\u5e38",
+        "destination": "\u6b23\u6fb3\u7ad9"
+    },
+    {
+        "stops": [
+            {
+                "stop": "\u6109\u666f\u5ee3\u5834\u5df4\u58eb\u7e3d\u7ad9",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.295671791792607,
+                "longitude": 114.01740254107763
+            },
+            {
+                "stop": "\u6d77\u71d5\u5f9115\u865f",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.296978391638245,
+                "longitude": 114.0135306567777
+            },
+            {
+                "stop": "\u6109\u666f\u7063\u570b\u969b\u5b78\u6821",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.300110210849443,
+                "longitude": 114.0119813466599
+            },
+            {
+                "stop": "\u7fe0\u5c71\u95a3",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.303988903880313,
+                "longitude": 114.01024081430386
+            },
+            {
+                "stop": "\u6642\u5cf0",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.306931973362772,
+                "longitude": 114.00980911696158
+            },
+            {
+                "stop": "\u5c1a\u5824\u4ea4\u532f\u8655",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30830918946594,
+                "longitude": 114.01259932218338
+            },
+            {
+                "stop": "\u6109\u666f\u7063\u96a7\u9053\u6536\u8cbb\u5ee3\u5834",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.309547431627696,
+                "longitude": 113.99066143091873
+            },
+            {
+                "stop": "\u6b23\u6fb3\u7ad9",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.3326439696516,
+                "longitude": 114.02839601583246
+            }
+        ]
+    }
+]
