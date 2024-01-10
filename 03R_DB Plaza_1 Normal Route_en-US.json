@@ -1,0 +1,82 @@
+[
+    {
+        "variant": "1 Normal Route",
+        "destination": "DB Plaza"
+    },
+    {
+        "stops": [
+            {
+                "stop": "Sunny Bay Station",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.3326439696516,
+                "longitude": 114.02839601583246
+            },
+            {
+                "stop": "DB Tunnel Toll Plaza",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.309743464951143,
+                "longitude": 113.99052382964456
+            },
+            {
+                "stop": "Siena Two (Joyful Mansion)",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.308006451234952,
+                "longitude": 114.0113112594706
+            },
+            {
+                "stop": "Neo Horizon",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.306917084465834,
+                "longitude": 114.00979732215735
+            },
+            {
+                "stop": "Greenland Court",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30616271160953,
+                "longitude": 114.00972061097953
+            },
+            {
+                "stop": "Parkridge Village",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.30227415268092,
+                "longitude": 114.01097098075223
+            },
+            {
+                "stop": "No. 41, Seabird Lane",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.299283958390337,
+                "longitude": 114.01257554270701
+            },
+            {
+                "stop": "15 Seabird Lane",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.296885329375314,
+                "longitude": 114.01365342785644
+            },
+            {
+                "stop": "DB Plaza Bus Terminus",
+                "info": [],
+                "time": [],
+                "trip_code": [],
+                "latitude": 22.295671791792607,
+                "longitude": 114.01740254107763
+            }
+        ]
+    }
+]
